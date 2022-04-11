@@ -16,7 +16,7 @@ I am a guy that likes to learn new things, mainly about technology. My experienc
 * react
 * vue
 * angular 6
-* many other
+* etc...
 
 
 # mobile :iphone:: 
